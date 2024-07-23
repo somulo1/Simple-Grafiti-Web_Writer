@@ -28,4 +28,5 @@ func checkOS() []string {
 
 	return sep
 }
+}
 ```
